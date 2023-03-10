@@ -13,7 +13,7 @@ I am a Android developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
  - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedln-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-khaled-907315190/)
 
-- 📫 How to contact me **mk840166@gmail.com**
+- 📫 How to contact me: **mk840166@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
