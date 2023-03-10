@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohammed Khaled</h1>
 <h3 align="center">I'm a Flutter applications developer.</h3>
 
+I'm Mohammed Khaled from Alexandria, Egypt I develop cross-platform applications using Flutter framework and Dart language.
+
 
 - 🌱 I’m currently learning **Flutter**
 
