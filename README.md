@@ -3,6 +3,8 @@
 
 I'm Mohammed Khaled from Alexandria, Egypt I develop cross-platform applications using Flutter framework and Dart language.
 
+(img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmFjNWQyNTA5YWUwYzdjN2QwMDM3NjQ1NGQwZjg4NDQ1MjZiZTM0YSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif")
+
 ### :man_technologist: About Me :
 I am a Android developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt.
 - 💻 I’m student at faculty of science, Alexandria university, software industry and multimedia department (SIM).
