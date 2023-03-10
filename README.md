@@ -18,12 +18,6 @@ I am a Flutter developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - 📫 How to contact me: **mk840166@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/https://twitter.com/mk662000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/mk662000" height="30" width="40" /></a>
-
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100002859185375" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100002859185375" height="30" width="40" /></a>
-</p>
 
 ### :hammer_and_wrench: Languages and Tools :
 
