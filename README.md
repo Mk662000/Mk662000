@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed Khaled</h1>
-<h3 align="center">I'm a Flutter applications developer.</h3>
+<h3 align="center">I'm a computer science student.</h3>
 
 <img align='right' src="https://media.giphy.com/media/6xpBQeimnN5QKT29oQ/giphy.gif" width="230">
 
