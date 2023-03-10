@@ -11,7 +11,7 @@ I am a Android developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mk662000](https://github.com/Mk662000)
 
- :mailbox:How to reach me: [![Linkedin Badge] (https://img.shields.io/badge/-linkedln-blue?style=flat&logo=Linkedin&logoColor=white)]
+ :mailbox:How to reach me: [![Linkedin Badge] (https://img.shields.io/badge/-linkedln-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-maged/)
 
 - 📫 How to reach me **mk840166@gmail.com**
 
