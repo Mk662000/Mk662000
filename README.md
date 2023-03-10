@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mohammed Khaled</h1>
 <h3 align="center">I'm a Flutter applications developer.</h3>
 
-I'm Mohammed Khaled from Alexandria, Egypt I develop cross-platform applications using Flutter framework and Dart language.
+I'm Mohammed Khaled Ahmed a junior software engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+from Alexandria, Egypt I develop cross-platform applications using Flutter framework and Dart language.
 
 <img align='right' src="https://media.giphy.com/media/6xpBQeimnN5QKT29oQ/giphy.gif" width="230">
-<p><em>Junior Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+
 
 ### :man_technologist: About Me :
 I am a Flutter developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt.
