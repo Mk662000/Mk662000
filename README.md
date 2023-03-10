@@ -6,7 +6,7 @@ I'm Mohammed Khaled from Alexandria, Egypt I develop cross-platform applications
 (img align="right" alt="Coding" width="400" src="https://giphy.com/embed/qgQUggAC3Pfv687qPC")
 
 <iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480">
-</iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+
 
 ### :man_technologist: About Me :
 I am a Android developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt.
