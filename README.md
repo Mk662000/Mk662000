@@ -5,7 +5,7 @@ I'm Mohammed Khaled from Alexandria, Egypt I develop cross-platform applications
 
 ### :man_technologist: About Me :
 I am a Android developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt.
-- 💻 I’m student at faculty of science Alexandria university software industry and multimedia department (SIM).
+- 💻 I’m student at faculty of science, Alexandria university, software industry and multimedia department (SIM).
 
 - 🌱 I’m currently learning **Flutter**
 
