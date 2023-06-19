@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mohammed Khaled</h1>
+<h1 align="center">Hi,
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" > I'm Mohammed Khaled</h1>
 <h3 align="center">I'm a computer science student.</h3>
 
 <img align='right' src="https://media.giphy.com/media/6xpBQeimnN5QKT29oQ/giphy.gif" width="230">
